@@ -267,7 +267,6 @@ PRODUCT_PACKAGES += \
     subsystem_ramdump \
     thermal-engine \
     time_daemon \
-    wcnss_service-mithorium \
     xtra-daemon \
     xtwifi-client \
     xtwifi-inet-agent
