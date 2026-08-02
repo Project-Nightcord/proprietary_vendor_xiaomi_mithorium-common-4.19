@@ -139,7 +139,7 @@ PRODUCT_PACKAGES += \
     libasphere \
     android.hardware.bluetooth@1.0-impl-qti \
     com.dsi.ant@1.0-impl \
-    vendor.qti.gnss@4.1-impl \
+    vendor.qti.gnss@4.0-impl \
     vendor.qti.hardware.alarm@1.0-impl \
     vendor.qti.hardware.bluetooth_sar@1.1-impl \
     vendor.qti.hardware.btconfigstore@2.0-impl \
@@ -181,7 +181,6 @@ PRODUCT_PACKAGES += \
     libmeters \
     libminksocket \
     liboemcrypto \
-    libpal_net_if \
     libpdmapper \
     libperfconfig \
     libperfgluelayer \
@@ -205,7 +204,6 @@ PRODUCT_PACKAGES += \
     libsoc_helper \
     libssd \
     libsynergy_loc_api \
-    libsys_info_cache \
     libtime_genoff \
     libwvhidl \
     libxml \
@@ -220,8 +218,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss@2.1 \
     vendor.qti.gnss@3.0 \
     vendor.qti.gnss@4.0 \
-    vendor.qti.gnss@4.1-service \
-    vendor.qti.gnss@4.1 \
+    vendor.qti.gnss@4.0-service \
     vendor.qti.hardware.alarm@1.0_vendor \
     vendor.qti.hardware.bluetooth_sar@1.0 \
     vendor.qti.hardware.bluetooth_sar@1.1 \
@@ -240,10 +237,9 @@ PRODUCT_PACKAGES += \
     CACertService \
     TimeService \
     manifest_android.hardware.drm@1.3-service.widevine.xml \
-    vendor.qti.gnss@4.1-service.xml \
+    vendor.qti.gnss@4.0-service.xml \
     adsprpcd \
     dspservice \
-    edgnss-daemon \
     android.hardware.bluetooth@1.0-service-qti \
     android.hardware.drm@1.3-service.widevine \
     vendor.qti.hardware.alarm@1.0-service \
@@ -261,7 +257,6 @@ PRODUCT_PACKAGES += \
     qrtr-ns \
     qseecomd \
     rmt_storage \
-    slim_daemon \
     ssr_diag \
     ssr_setup \
     subsystem_ramdump \
